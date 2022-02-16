@@ -15,7 +15,7 @@ class App{
 		System.out.println("Irassuk ki a szamokat betuvel");
 		Scanner sc = new Scanner(System.in);
 
-		System.out.print("Szam 1-10-ig: ");
+		System.out.print("Szam 1-12-ig: ");
 		int szam = sc.nextInt();
 		if (szam <1 || szam> 12){
 			System.out.print("Nem megfelelo szam");
