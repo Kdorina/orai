@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 class App{
 	public static void main(String[] args){
-		System.out.println("Kovacs Dorina, 2022-02-16, Szoft I N");
+		System.out.println("Kovacs Dorina, 2022.02.16, Szoft I/N");
 		System.out.println("allitas ? ertek_ha_igaz: ertek_ha_hamis");
 		Scanner sc = new Scanner(System.in);
 		
