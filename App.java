@@ -3,7 +3,7 @@
 * Author: Kovács Dorina
 * Copyright: 2022, Kovács Dorina
 * Group: Szoft I/N
-* Date: 2021-02-16
+* Date: 2022.02.16
 * Github: https://github.com/Kdorina/
 * Licenc: GNU GPL
 */
