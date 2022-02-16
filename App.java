@@ -17,7 +17,7 @@ class App{
 
 		System.out.print("Szam 1-10-ig: ");
 		int szam = sc.nextInt();
-		if (szam <1 || szam> 10){
+		if (szam <1 || szam> 12){
 			System.out.print("Nem megfelelo szam");
 			System.exit(0);
 			
